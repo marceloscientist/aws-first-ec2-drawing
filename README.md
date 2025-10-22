@@ -2,6 +2,9 @@
 
 **Desafio - Gerenciamento de Instâncias EC2**
 
+<img width="714" height="463" alt="image" src="https://github.com/user-attachments/assets/b2a445fc-0bde-46fd-8628-44d78bc2c9d9" />
+
+
 ### 🇧🇷 Descrição em Português
 
 #### 🧠 Contexto
